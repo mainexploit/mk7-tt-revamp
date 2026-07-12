@@ -1,5 +1,7 @@
 # Time Trials Revamped
-This a CTRPluginFramework for the Time Trials Community.
+**This a CTRPluginFramework for the Time Trials Community**
+
+The latest download can be found [https://github.com/mainexploit/mk7-tt-revamp/releases].
 
 ---
 
