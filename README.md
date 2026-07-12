@@ -12,8 +12,8 @@ The latest download can be found [here](https://github.com/mainexploit/mk7-tt-re
 - Time Trials checksums for verification at the end of a normal run
 - A replay mode with dynamic camera controls such as 3rd person view
 - A reworked demo camera for replays of your previous played time trials
-- A practice mode with save states, infinite laps and time split per lap
 - An input viewer for the replay mode and in replays of your previous run
+- A practice mode with save states, infinite laps and time split per lap/section
 - Other QoL features such as pressing B to go back to your splits in the result screen
 
 ---
