@@ -28,6 +28,7 @@ The latest download can be found [here](https://github.com/mainexploit/mk7-tt-re
 
 > [!NOTE]
 > Community Ghosts replacing all staff ghosts will be an upcoming feature soon
+> There is an example ghost in Toad Circuit, replacing the slow staff ghost
 
 ---
 
