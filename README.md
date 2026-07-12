@@ -9,15 +9,17 @@ The latest download can be found [here](https://github.com/mainexploit/mk7-tt-re
 - Vanilla game and only affects your time trials experience
 - Inbuilt Anti Cheat to prevent tampering as much as possible
 - Unlocked content by default without touching your save file
-- Time Trials checksums for verification at the end of a natural run
-- A replay mode with dynamic camera controls as well as an input viewer
-- A reworked camera for replays of your previous runs with an input viewer
-- A practice mode with save states, infinite laps and time splits per lap/section
+- Time Trials checksums for verification at the end of a normal run
+- A replay mode with dynamic camera controls such as 3rd person view
+- A reworked demo camera for replays of your previous played time trials
+- A practice mode with save states, infinite laps and time split per lap
+- An input viewer for the replay mode and in replays of your previous run
 - Other QoL features such as pressing B to go back to your splits in the result screen
 
 ---
 
 > [!TIP]
+> - You can toggle the checksum validation by pressing select while you are in the results screen after a run.
 > - If you wish to configure your save state hotkeys, head over to the Mario Kart Channel and go to Hotkeys.
 > - You can toggle the input viewer by pressing select while you are in replay mode or watching your run.
 > - You can toggle the modes by pressing X on "No Ghost" for practice or on any other ghost for replay.
