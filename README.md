@@ -11,13 +11,14 @@ This a CTRPluginFramework for the Time Trials Community.
 - A replay mode with dynamic camera controls as well as an input viewer
 - A reworked camera for replays of your previous runs with an input viewer
 - A practice mode with save states, infinite laps and time splits per lap/section
+- Other QoL features such as pressing B to go back to your splits in the result screen
 
 ---
 
 > [!TIP]
-> - If you wish to re-configure your save state hotkeys, head over to the Mario Kart Channel and go to" Hotkeys".
-> - You can toggle the modes by pressing X on "No Ghost" for practice as well as on any other ghost for replay.
+> - If you wish to configure your save state hotkeys, head over to the Mario Kart Channel and go to Hotkeys.
 > - You can toggle the input viewer by pressing select while you are in replay mode or watching your run.
+> - You can toggle the modes by pressing X on "No Ghost" for practice or on any other ghost for replay.
 > - You can view the current build, version and credits by pressing select on the title screen.
 
 ---
