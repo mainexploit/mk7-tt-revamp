@@ -2,7 +2,22 @@
 # Time Trials Revamped
 **This a CTRPluginFramework for the Mario Kart 7 Time Trials Community**
 
-**[Download Latest Release](https://github.com/mainexploit/mk7-tt-revamp/releases)**
+- **[Latest Changelog](https://github.com/mainexploit/mk7-tt-revamp/releases)**
+- **[Latest Download](https://github.com/mainexploit/mk7-tt-revamp/releases/latest/download/mk7-tt-revamp.3gx)**
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/mainexploit/mk7-tt-revamp/main/icon_large.png" width="64" />
+    </td>
+    <td valign="middle">
+      You can now download it directly from <strong><a href="https://db.universal-team.net/3ds/mk7-tt-revamp">Universal-Updater</a></strong><br>
+      <strong><a href="https://universal-team.net/projects/universal-updater">More about Universal-Updater and how to install it</a></strong>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## What this plugin offers
 | Feature | Description |
@@ -55,15 +70,16 @@
   *Depending on if you changed your `Rosalina Menu` hotkey, make sure to use that one instead*
 ---
 4. Navigate to the `Plugin Loader`, press `A` to change it to `Enabled` and finally go to `Save Settings`  
-  *This will remember your last changes made to the config, you can turn it off if you don't want to load the plugin*
+  *This will remember your last changes made to the config, you can turn it off again anytime*
 ---
-5. Close the menu and launch your game. A blue flash should appear, which indicates that the plugin loaded  
+5. Close the menu and launch your game. A blue flash should appear, indicating that the plugin loaded  
   *If that doesn't occur, something went wrong and you should repeat the steps or ask for help*
 ---
 
 ## NTR-CFW Screenshare
 
-**It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)**, other versions are blocked**
+**It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)**, other versions are blocked**\
+*Be sure to have the latest version installed, as well as not the Mode3 either*
 
 > [!NOTE]
 > You can access its menu by going to the HOME-Menu and pressing X+Y
