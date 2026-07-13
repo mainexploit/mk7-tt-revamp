@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/mainexploit/mk7-tt-revamp/main/banner_large.png)
 # Time Trials Revamped
 **This a CTRPluginFramework for the Mario Kart 7 Time Trials Community**
 
