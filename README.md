@@ -2,25 +2,31 @@
 # Time Trials Revamped
 **This a CTRPluginFramework for the Mario Kart 7 Time Trials Community**
 
-The latest download can be found **[here](https://github.com/mainexploit/mk7-tt-revamp/releases)**
+**[Download Latest Release](https://github.com/mainexploit/mk7-tt-revamp/releases)**
 
-## Features
-- Inbuilt Anti Cheat to prevent tampering as much as possible
-- Unlocked content by default without touching your save file
-- A Time Trials checksum for verification at the end of a normal run
-- A reworked demo camera for replays of your previous played run
-- A replay mode with dynamic camera controls such as 3rd person view
-- An input viewer for the replay mode and in replays of your previous run
-- A practice mode with save states, infinite laps and time split per lap/section
-- Other QoL features such as pressing B to go back to your splits in the result screen
-- For those dedicated enough, there is a hidden easter egg feature, good luck finding it
+## What this plugin offers
+| Feature | Description |
+| :--- | :--- |
+| **Anti-Cheat** | Inbuilt Anti Cheat to prevent tampering as much as possible |
+| **Unlock All** | Unlocked content by default without touching your save file |
+| **Verification** | A Time Trials checksum for verification at the end of a normal run |
+| **Demo Camera** | A reworked demo camera for replays of your previous played run |
+| **Replay Mode** | Replay mode with dynamic camera controls such as 3rd person view |
+| **Input Viewer** | An input viewer for the replay mode and in replays of your previous run |
+| **Practice Mode** | A practice mode with save states, infinite laps and time split per lap/section |
+| **QoL Features** | Other QoL features such as pressing B to go back to your splits in the result screen |
+| **Easter Egg** | For those dedicated enough, there is a hidden easter egg feature, good luck finding it |
 
 > [!TIP]
-> - You can toggle the checksum validation by pressing select while you are in the results screen after a run
-> - If you wish to configure your save state hotkeys, head over to the Mario Kart Channel and go to Hotkeys
-> - You can toggle the input viewer by pressing select while you are in replay mode or watching your run
-> - You can toggle the modes by pressing X on "No Ghost" for practice or on any other ghost for replay
-> - You can view the current build, version and credits by pressing select on the title screen
+> ### Hotkeys
+> - **Checksum:** Press `Select` in the results screen after a run
+> - **Input Viewer:** Press `Select` while in replay mode or watching your run
+> - **Info:** Press `Select` on the title screen to view build, version, and credits
+> - **Modes:** Press `X` on no ghost for **Practice** or any ghost, except seven ghosts for **Replay**
+> - **Snapshots:** The default is `Select` to create a snapshot and also to restore the previous one
+> 
+> *Restart the race to clear the snapshot or re-bind the hotkeys to two different buttons*\
+> *Go to the **Mario Kart Channel > Hotkeys** to change your practice hotkeys*
 
 > [!NOTE]
 > Community Ghosts replacing all staff ghosts will be an upcoming feature soon
@@ -30,16 +36,17 @@ The latest download can be found **[here](https://github.com/mainexploit/mk7-tt-
 ## How to install
 > [!CAUTION]
 > **Make sure you are on the latest [Luma 3DS CFW](https://github.com/LumaTeam/Luma3DS) and [System Firmware Update](https://www.nintendo.com/en-gb/Support/Legacy-system/Latest-system-update-information-241709.html)**
-
-> [!IMPORTANT]
-> We only support the JPN, EUR and USA version of Mario Kart 7
 > 
-> *Here are the title IDs of those games*
+> **We also only support the following game versions**\
+> *Be sure to have it on the latest update as well*
 > - **JPN**: `0004000000030600`
 > - **EUR**: `0004000000030700`
 > - **USA**: `0004000000030800`
 
-### Installation Steps
+## Installation
+<details>
+<summary><b>Click to expand the steps</b></summary>
+ 
 ---
 1. Create a folder on your SD card: `sdmc:\luma\plugins\<title id>\`  
   *In case you are missing the `plugins` folder, just create it too*
@@ -53,6 +60,8 @@ The latest download can be found **[here](https://github.com/mainexploit/mk7-tt-
 4. Close the menu and launch your game. A blue flash should appear, which indicates that the plugin successfully loaded  
   *If that doesn't occur, something went wrong and you should repeat the steps or ask for help*
 ---
+
+</details>
 
 > [!NOTE]
 > It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)** for screenshare, other versions are blocked
