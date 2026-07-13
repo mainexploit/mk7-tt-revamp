@@ -80,3 +80,8 @@
 - *h4x0rspooky*
 - *damarioyt*
 - *Christian G*
+
+## Thanks
+- **[Anto726](https://github.com/Anto726)** for being a great teacher
+- **[B_squo](https://github.com/Bsquo)** for the Input Viewer assets
+- **[MK7-Memory](https://github.com/mk7re/MK7-Memory)** for all the info it provides
