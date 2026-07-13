@@ -11,7 +11,7 @@
       <img src="https://raw.githubusercontent.com/mainexploit/mk7-tt-revamp/main/icon_large.png" width="64" />
     </td>
     <td valign="middle">
-      You can now download it directly from <strong><a href="https://db.universal-team.net/3ds/mk7-tt-revamp">Universal-Updater</a></strong><br>
+      You can now download it directly from <strong><a href="https://db.universal-team.net/3ds/time-trials-revamped">Universal-Updater</a></strong><br>
       <strong><a href="https://universal-team.net/projects/universal-updater">More about Universal-Updater and how to install it</a></strong>
     </td>
   </tr>
