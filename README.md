@@ -63,7 +63,7 @@
 
 ## NTR-CFW Screenshare
 
-It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)**, other versions are blocked
+**It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)**, other versions are blocked**
 
 > [!NOTE]
 > You can access its menu by going to the HOME-Menu and pressing X+Y
