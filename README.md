@@ -33,7 +33,7 @@
 >  
 > There is an example ghost in Toad Circuit, replacing the slow staff ghost
 
-## How to install
+## Installation
 > [!CAUTION]
 > **Make sure you are on the latest [Luma 3DS CFW](https://github.com/LumaTeam/Luma3DS) and [System Firmware Update](https://www.nintendo.com/en-gb/Support/Legacy-system/Latest-system-update-information-241709.html)**
 > 
@@ -43,29 +43,29 @@
 > - **EUR**: `0004000000030700`
 > - **USA**: `0004000000030800`
 
-## Installation
-<details>
-<summary><b>Click to expand the steps</b></summary>
- 
+ ### Step-By-Step Guide
 ---
 1. Create a folder on your SD card: `sdmc:\luma\plugins\<title id>\`  
   *In case you are missing the `plugins` folder, just create it too*
 ---
-2. While you're in the `HOME-Menu`, open the `Rosalina Menu` by pressing `L + D-Pad Down + Select`  
+2. Place the `.3gx` file you downloaded into the folder that you just created  
+  *Get it from [here](https://github.com/mainexploit/mk7-tt-revamp/releases) if you haven't gotten it yet*
+---
+3. While you're in the `HOME-Menu`, open the `Rosalina Menu` by pressing `L + D-Pad Down + Select`  
   *Depending on if you changed your `Rosalina Menu` hotkey, make sure to use that one instead*
 ---
-3. Navigate to the `Plugin Loader`, press `A` to change it to `Enabled` and finally go to `Save Settings`  
+4. Navigate to the `Plugin Loader`, press `A` to change it to `Enabled` and finally go to `Save Settings`  
   *This will remember your last changes made to the config, you can turn it off if you don't want to load the plugin*
 ---
-4. Close the menu and launch your game. A blue flash should appear, which indicates that the plugin successfully loaded  
+5. Close the menu and launch your game. A blue flash should appear, which indicates that the plugin loaded  
   *If that doesn't occur, something went wrong and you should repeat the steps or ask for help*
 ---
 
-</details>
+## NTR-CFW Screenshare
+
+It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)**, other versions are blocked
 
 > [!NOTE]
-> It only allows **[NTR-HR](https://github.com/xzn/ntr-hr)** for screenshare, other versions are blocked
->
 > You can access its menu by going to the HOME-Menu and pressing X+Y
 
 ## Any questions or ran into issues?
