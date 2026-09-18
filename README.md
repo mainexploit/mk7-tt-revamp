@@ -28,6 +28,8 @@
 | **Demo Camera** | A reworked demo camera for replays of your previous played run |
 | **Replay Mode** | Replay mode with dynamic camera controls such as 3rd person view |
 | **Input Viewer** | An input viewer for the replay mode and in replays of your previous run |
+| **Custom Sections** | Spawn a custom checkpoint to test how fast you're going per custom split |
+| **Community Ghosts** | Staff ghosts are replaced by community ghosts, they appear golden |
 | **Practice Mode** | A practice mode with save states, infinite laps and time split per lap/section |
 | **QoL Features** | Other QoL features such as pressing B to go back to your splits in the result screen |
 | **Easter Egg** | For those dedicated enough, there is a hidden easter egg feature, good luck finding it |
@@ -39,14 +41,15 @@
 > - **Info:** Press `Select` on the title screen to view build, version, and credits
 > - **Modes:** Press `X` on no ghost for **Practice** or any ghost, except seven ghosts for **Replay**
 > - **Snapshots:** The default is `Select` to create a snapshot and also to restore the previous one
+> - **Custom Sections:** The default is `Select` to create a startpoint, press it again to set the endpoint
 > 
-> *Restart the race to clear the snapshot or re-bind the hotkeys to two different buttons*\
-> *Go to the **Mario Kart Channel > Hotkeys** to change your practice hotkeys*
+> *Restart the race to clear the snapshot/checkpoints or re-bind the hotkeys to two different buttons*\
+> *Go to the **Mario Kart Channel > Options** to change your practice/checkpoint hotkeys*
 
 > [!NOTE]
-> Community Ghosts replacing all staff ghosts will be an upcoming feature soon
+> Online Time Trials will be an upcoming feature soon!
 >  
-> There is an example ghost in Toad Circuit, replacing the slow staff ghost
+> Look forward to racing your friends in some worldwide/community time trials!
 
 ## Installation
 > [!CAUTION]
