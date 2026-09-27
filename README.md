@@ -31,6 +31,7 @@
 | **Custom Sections** | Spawn a custom checkpoint to test how fast you're going per custom split |
 | **Community Ghosts** | Staff ghosts are replaced by community ghosts, they appear golden |
 | **Practice Mode** | A practice mode with save states, infinite laps and time split per lap/section |
+| **Online Time Trials** | Test your skill against people around the world and see who is the better time trialer |
 | **QoL Features** | Other QoL features such as pressing B to go back to your splits in the result screen |
 | **Easter Egg** | For those dedicated enough, there is a hidden easter egg feature, good luck finding it |
 
@@ -47,9 +48,9 @@
 > *Go to the **Mario Kart Channel > Options** to change your practice/checkpoint hotkeys*
 
 > [!NOTE]
-> Online Time Trials will be an upcoming feature soon!
+> Online Time Trials has communities disabled by default
 >  
-> Look forward to racing your friends in some worldwide/community time trials!
+> Enable the setting inside **Mario Kart Channel > Options**
 
 ## Installation
 > [!CAUTION]
