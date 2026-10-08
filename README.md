@@ -23,7 +23,7 @@
 | Feature | Description |
 | :--- | :--- |
 | **Anti-Cheat** | Inbuilt Anti Cheat to prevent tampering as much as possible |
-| **Unlock All** | Unlocked content by default without touching your save file |
+| **Unlock All** | Unlocked content by default which applies to your save file |
 | **Verification** | A Time Trials checksum for verification at the end of a normal run |
 | **Demo Camera** | A reworked demo camera for replays of your previous played run |
 | **Replay Mode** | Replay mode with dynamic camera controls such as 3rd person view |
