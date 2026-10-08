@@ -32,6 +32,7 @@
 | **Community Ghosts** | Staff ghosts are replaced by community ghosts, they appear golden |
 | **Practice Mode** | A practice mode with save states, infinite laps and time split per lap/section |
 | **Online Time Trials** | Test your skill against people around the world and see who is the better time trialer |
+| **Lounge Lobbies** | An extension to support [MK7 Lounge](https://discord.gg/cZZp9DdQ5e) mogis as well as optional host course votes |
 | **QoL Features** | Other QoL features such as pressing B to go back to your splits in the result screen |
 | **Easter Egg** | For those dedicated enough, there is a hidden easter egg feature, good luck finding it |
 
@@ -101,7 +102,11 @@
 - *damarioyt*
 - *Christian G*
 
-## Thanks
-- **[Anto726](https://github.com/Anto726)** for being a great teacher
-- **[B_squo](https://github.com/Bsquo)** for the Input Viewer assets
-- **[MK7-Memory](https://github.com/mk7re/MK7-Memory)** for all the info it provides
+## Special Thanks
+- **[Anto726](https://github.com/Anto726)**
+- **[B_squo](https://github.com/Bsquo)**
+- **[PabloMK7](https://github.com/PabloMK7)**
+
+## Useful Resources
+- **[MK7-Revolution](https://github.com/Anto726/MK7-Revolution)**
+- **[MK7-Memory](https://github.com/mk7re/MK7-Memory)**
