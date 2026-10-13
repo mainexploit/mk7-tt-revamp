@@ -32,7 +32,6 @@
 | **Community Ghosts** | Staff ghosts are replaced by community ghosts, they appear golden |
 | **Practice Mode** | A practice mode with save states, infinite laps and time split per lap/section |
 | **Online Time Trials** | Test your skill against people around the world and see who is the better time trialer |
-| **Lounge Lobbies** | An extension to support [MK7 Lounge](https://discord.gg/cZZp9DdQ5e) mogis as well as optional host course votes |
 | **QoL Features** | Other QoL features such as pressing B to go back to your splits in the result screen |
 | **Easter Egg** | For those dedicated enough, there is a hidden easter egg feature, good luck finding it |
 
@@ -49,9 +48,9 @@
 > *Go to the **Mario Kart Channel > Options** to change your practice/checkpoint hotkeys*
 
 > [!NOTE]
-> Online Time Trials has communities disabled by default
->  
-> Enable the setting inside **Mario Kart Channel > Options**
+> We allow for custom music to be loaded with game patching
+>
+> This includes everything inside the `Sound` folder
 
 ## Installation
 > [!CAUTION]
