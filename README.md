@@ -48,7 +48,7 @@
 > *Go to the **Mario Kart Channel > Options** to change your practice/checkpoint hotkeys*
 
 > [!NOTE]
-> We allow for custom music to be loaded with game patching
+> We allow custom music to be loaded through luma's game patching
 >
 > This includes everything inside the `Sound` folder
 
@@ -94,12 +94,13 @@
 > - Make sure to provide as much information as possible
 > - Include any existing crash dump log files with your report
 
-**Join the [Discord Server](https://discord.gg/PYwXH6P5vp) and let us know**
+**DM me on Discord and let me know**
+*My username: `h4x0rspooky`*
 
 ## Credits
+- *Christian G*
 - *h4x0rspooky*
 - *damarioyt*
-- *Christian G*
 
 ## Special Thanks
 - **[Anto726](https://github.com/Anto726)**
