@@ -95,6 +95,7 @@
 > - Include any existing crash dump log files with your report
 
 **DM me on Discord and let me know**
+
 *My username: `h4x0rspooky`*
 
 ## Credits
@@ -108,5 +109,6 @@
 - **[PabloMK7](https://github.com/PabloMK7)**
 
 ## Useful Resources
+- **[CTRPluginFramework-RevolutionBase](https://github.com/Anto726/CTRPluginFramework-RevolutionBase)**
 - **[MK7-Revolution](https://github.com/Anto726/MK7-Revolution)**
 - **[MK7-Memory](https://github.com/mk7re/MK7-Memory)**
