@@ -94,9 +94,7 @@
 > - Make sure to provide as much information as possible
 > - Include any existing crash dump log files with your report
 
-**DM me on Discord and let me know**
-
-*My username: `h4x0rspooky`*
+**[Join our discord server](https://discord.gg/mW9v4zvtMC)**
 
 ## Credits
 - *Christian G*
