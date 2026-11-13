@@ -37,20 +37,19 @@
 
 > [!TIP]
 > ### Hotkeys
-> - **Checksum:** Press `Select` in the results screen after a run
-> - **Input Viewer:** Press `Select` while in replay mode or watching your run
+> - **Checksum:** Press `Select` in the results screen after a run is finished
+> - **Input Viewer:** Press `Select` while in replay mode or watching your run back
 > - **Info:** Press `Select` on the title screen to view build, version, and credits
-> - **Modes:** Press `X` on no ghost for **Practice** or any ghost, except seven ghosts for **Replay**
+> - **Modes:** Press `X` on "No Ghost" for **Practice** or any ghost, except seven ghosts for **Replay**
 > - **Snapshots:** The default is `Select` to create a snapshot and also to restore the previous one
 > - **Custom Sections:** The default is `Select` to create a startpoint, press it again to set the endpoint
 > 
 > *Restart the race to clear the snapshot/checkpoints or re-bind the hotkeys to two different buttons*\
-> *Go to the **Mario Kart Channel > Options** to change your practice/checkpoint hotkeys*
+> *Go to the **Mario Kart Channel > Options Menu** to change your practice/checkpoint hotkeys*
 
 > [!NOTE]
-> We allow custom music to be loaded through luma's game patching
->
-> This includes everything inside the `Sound` folder
+> We allow custom `Sound` to be loaded through luma's game patching\
+> *It gets auto disabled for normal time trial runs to keep it vanilla*
 
 ## Installation
 > [!CAUTION]
@@ -94,7 +93,8 @@
 > - Make sure to provide as much information as possible
 > - Include any existing crash dump log files with your report
 
-**[Join our discord server](https://discord.gg/mW9v4zvtMC)**
+**DM me on Discord and let me know**
+*My username: `h4x0rspooky`*
 
 ## Credits
 - *Christian G*
@@ -107,6 +107,5 @@
 - **[PabloMK7](https://github.com/PabloMK7)**
 
 ## Useful Resources
-- **[CTRPluginFramework-RevolutionBase](https://github.com/Anto726/CTRPluginFramework-RevolutionBase)**
 - **[MK7-Revolution](https://github.com/Anto726/MK7-Revolution)**
 - **[MK7-Memory](https://github.com/mk7re/MK7-Memory)**
