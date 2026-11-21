@@ -47,10 +47,6 @@
 > *Restart the race to clear the snapshot/checkpoints or re-bind the hotkeys to two different buttons*\
 > *Go to the **Mario Kart Channel > Options Menu** to change your practice/checkpoint hotkeys*
 
-> [!NOTE]
-> We allow custom `Sound` to be loaded through luma's game patching\
-> *It gets auto disabled for normal time trial runs to keep it vanilla*
-
 ## Installation
 > [!CAUTION]
 > **Make sure you are on the latest [Luma 3DS CFW](https://github.com/LumaTeam/Luma3DS) and [System Firmware Update](https://www.nintendo.com/en-gb/Support/Legacy-system/Latest-system-update-information-241709.html)**
